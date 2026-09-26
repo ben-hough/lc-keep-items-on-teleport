@@ -1,3 +1,5 @@
+> This mod has moved to https://github.com/ben-hough/lc-mods/tree/main/KeepItemsOnTeleport. This repo is archived and read-only; full history was preserved there.
+
 # KeepItemsOnTeleport
 
 Keep your held/inventory items when the ship teleporter beams you.
